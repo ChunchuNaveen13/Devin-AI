@@ -789,6 +789,7 @@ For Quartz.NET scheduled jobs:
 | | +---------- hour (0-23)
 | +------------ minute (0-59)
 +-------------- second (0-59)
+```
 
 **Examples:
 0 0/5 * * * ? - Every 5 minutes
